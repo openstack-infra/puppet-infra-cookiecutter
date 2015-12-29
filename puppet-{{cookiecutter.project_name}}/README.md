@@ -14,7 +14,7 @@
 Overview
 --------
 
-The {{cookiecutter.project_name}} module is a part of [OpenStack-infra](https://github.com/openstack-infra), an effort by the Openstack infrastructure team to provide continuous integration testing and code review for Openstack-infra projects.
+The {{cookiecutter.project_name}} module is a part of [OpenStack-infra](https://git.openstack.org/cgit/openstack-infra), an effort by the Openstack infrastructure team to provide continuous integration testing and code review for Openstack-infra projects.
 
 Module Description
 ------------------
@@ -62,8 +62,3 @@ Development
 Developer documentation for the entire puppet-infra project.
 
 * http://docs.openstack.org/infra/system-config/puppet.html
-
-Contributors
-------------
-
-* https://github.com/openstack/puppet-{{cookiecutter.project_name}}/graphs/contributors
