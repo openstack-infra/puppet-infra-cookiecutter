@@ -1,0 +1,8 @@
+Code-Review+2: Joshua Hesketh <josh@nitrotech.org>
+Workflow+1: Joshua Hesketh <josh@nitrotech.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 04 Jan 2019 10:34:28 +0000
+Reviewed-on: https://review.openstack.org/608334
+Project: openstack-infra/puppet-infra-cookiecutter
+Branch: refs/heads/master
