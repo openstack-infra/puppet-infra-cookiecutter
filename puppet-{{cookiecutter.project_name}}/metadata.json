@@ -4,7 +4,7 @@
   "author": "OpenStack CI",
   "summary": "Puppet module for OpenStack-infra {{cookiecutter.project_name|capitalize}}",
   "license": "Apache-2.0",
-  "source": "git://git.openstack.org/openstack-infra/puppet-{{cookiecutter.project_name}}.git",
+  "source": "https://git.openstack.org/openstack-infra/puppet-{{cookiecutter.project_name}}.git",
   "project_page": "https://docs.openstack.org/infra/system-config/",
   "issues_url": "https://storyboard.openstack.org/#!/project/767",
   "description": "Installs and configures OpenStack-infra {{cookiecutter.project_name|capitalize}}.",
